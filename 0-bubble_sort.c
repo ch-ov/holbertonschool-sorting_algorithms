@@ -1,6 +1,6 @@
 #include "sort.h"
 /**
- * bubble_sort - Sorts an array of integers
+ * bubble_sort - Sorts an array of integers Insertion sort
  * @array: Array to sort
  * @size: Size of array
  */
